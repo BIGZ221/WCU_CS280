@@ -1,0 +1,9 @@
+push 2 3
+push -5 1
+push 7 0
+push -1 -1
+insert 2 9 9
+display
+erase 1
+display
+addFriend 1 3

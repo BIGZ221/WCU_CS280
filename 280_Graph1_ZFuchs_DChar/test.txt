@@ -1,0 +1,14 @@
+* graph
+Denver > Chicago StLouis
+Chicago <> StLouis NewYork
+StLouis > Miami
+NewYork > Miami
+NewYork > Denver
+Orlando <> Denver Atlanta Boston
+* adjacent Denver
+* matrix
+* adjacent NewYork
+* adjacent Miami
+* dfs Chicago
+* adjacent London
+* dfs Denver

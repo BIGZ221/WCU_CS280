@@ -1,0 +1,22 @@
+* digraph
+D > C 1
+C > N 1
+S > D 1 C 1
+M > S 1 N 1
+N > C 1 M 1 L 1
+* matrix
+* bfs D
+* bfs L
+* bfs N
+* dijkstra D M
+* dijkstra M L
+* digraph
+A > B 2 C 7 D 4
+B > C 4 E 5
+D > C 1 E 2
+E > C 3
+* matrix
+* bfs B
+* bfs D
+* dijkstra A E
+* dijkstra A C
